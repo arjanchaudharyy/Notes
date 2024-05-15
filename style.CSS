@@ -13,7 +13,7 @@ body {
     background-color: rgb(41, 128, 241);
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
-    width: 50%; /* Adjust width as desired */
+    width: 40%; /* Adjust width as desired */
     margin: 0 auto; /* Center container horizontally */
   }
   
